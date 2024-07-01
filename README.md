@@ -1,4 +1,4 @@
 # studyBuff
 
 ## Architecture
-![Architecture](/demo/Architecture.png.png)
+![Architecture](/demo/Architecture.png)
